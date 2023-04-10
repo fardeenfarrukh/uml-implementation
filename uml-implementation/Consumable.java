@@ -1,4 +1,4 @@
-package Assignment_7;
+package uml-implementation;
 
 /**
  * Implementation of Assignment_7.Consumable interface.
