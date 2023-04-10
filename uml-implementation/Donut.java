@@ -1,4 +1,4 @@
-package Assignment_7;
+package uml-implementation;
 
 import java.util.Scanner;
 
