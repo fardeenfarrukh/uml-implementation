@@ -1,4 +1,4 @@
-package Assignment_7;
+package uml-implementation;
 
 /**
  * Implementation of Assignment_7.TimsProduct abstract class which implements Assignment_7.Commodity interface
