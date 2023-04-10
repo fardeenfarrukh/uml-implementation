@@ -1,4 +1,4 @@
-package Assignment_7;
+package uml-implementation;
 
 import javafx.scene.paint.Color;
 import java.util.Scanner;
